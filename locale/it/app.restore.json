@@ -26,7 +26,7 @@
                 "restore": "Ripristina Seed"
             },
             "noUsers": {
-                "description": "{div}[Non è sato possibile trovare alcun account salvato. Torna su ] {div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[Non è sato possibile trovare alcun account salvato. Torna su ] {div}[[waves.exchange](https://waves.exchange)]",
                 "title": "Nessun account salvato"
             },
             "passwordTitle": "Password",

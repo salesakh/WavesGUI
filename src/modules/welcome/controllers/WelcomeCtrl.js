@@ -254,7 +254,7 @@
              * @private
              */
             _loadUserListFromOldOrigin() {
-                const OLD_ORIGIN = 'https://client.wavesplatform.com';
+                const OLD_ORIGIN = 'https://waves.exchange';
 
                 this.pendingRestore = true;
 

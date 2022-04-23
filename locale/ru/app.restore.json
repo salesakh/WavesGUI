@@ -26,7 +26,7 @@
                 "restore": "Восстановить Seed"
             },
             "noUsers": {
-                "description": "{div} Вернуться на {div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div} Вернуться на {div}[[waves.exchange](https://waves.exchange)]",
                 "title": "Нет сохранённых аккаунтов"
             },
             "passwordTitle": "Пароль",

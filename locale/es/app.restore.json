@@ -26,7 +26,7 @@
                 "restore": "Restaurar semilla"
             },
             "noUsers": {
-                "description": "{div}[No hemos encontrado ninguna cuenta guardada. Vuelva a] {div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[No hemos encontrado ninguna cuenta guardada. Vuelva a] {div}[[waves.exchange](https://waves.exchange)]",
                 "title": "No hay cuentas guardadas"
             },
             "passwordTitle": "Contraseña",

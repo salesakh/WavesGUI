@@ -26,7 +26,7 @@
                 "restore": "सीड रीस्टोर करें"
             },
             "noUsers": {
-                "description": "{div}[हमें सहेजा हुआ कोई भी खाता नहीं मिला। वापस जाएं]{div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[हमें सहेजा हुआ कोई भी खाता नहीं मिला। वापस जाएं]{div}[[waves.exchange](https://waves.exchange)]",
                 "title": "कोई खाता नहीं सहेजा"
             },
             "passwordTitle": "पासवर्ड",

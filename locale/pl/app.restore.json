@@ -26,7 +26,7 @@
                 "restore": "Odzyskaj słowa zapasowe"
             },
             "noUsers": {
-                "description": "{div}[Nie znaleźliśmy żadnego zapisanego konta.]{div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[Nie znaleźliśmy żadnego zapisanego konta.]{div}[[waves.exchange](https://waves.exchange)]",
                 "title": "Brak zapisanych kont"
             },
             "passwordTitle": "Hasło",

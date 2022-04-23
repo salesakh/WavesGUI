@@ -26,7 +26,7 @@
                 "restore": "Restaurar Seed"
             },
             "noUsers": {
-                "description": "{div}[Não encontramos nenhuma conta salva. Volte para o] {div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[Não encontramos nenhuma conta salva. Volte para o] {div}[[waves.exchange](https://waves.exchange)]",
                 "title": "Nenhuma conta salva"
             },
             "passwordTitle": "Senha",

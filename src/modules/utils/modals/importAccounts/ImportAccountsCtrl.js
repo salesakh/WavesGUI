@@ -16,7 +16,7 @@
         const { find, propEq, uniqBy, filter, pipe, prop } = require('ramda');
         const { isValidAddress } = require('@waves/signature-adapter');
 
-        const OLD_ORIGIN = 'https://client.wavesplatform.com';
+        const OLD_ORIGIN = 'https://waves.exchange';
 
         class ImportAccountsCtrl extends Base {
 

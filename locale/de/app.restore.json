@@ -26,7 +26,7 @@
                 "restore": "Seed wiederherstellen"
             },
             "noUsers": {
-                "description": "{div}[Wir haben keine gespeicherten Konten gefunden. Zurück zum] {div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[Wir haben keine gespeicherten Konten gefunden. Zurück zum] {div}[[waves.exchange](https://waves.exchange)]",
                 "title": "Keine Konten gespeichert"
             },
             "passwordTitle": "Passwort",

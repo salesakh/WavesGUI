@@ -38,7 +38,7 @@
     },
     "faq": {
         "attention": {
-            "text": "{div.margin-top-1} [仅可从网络域[https://dex.wavesplatform.com]（https://dex.wavesplatform.com/）和[https： //client.wavesplatform.com](https://client.wavesplatform.com/）。要完成桌面客户端的迁移，您必须使用已经安装的Waves DEX桌面应用程序。] \n\n {div.margin-top-1} [请勿使用任何其他域进行迁移，请勿在任何地方输入您的种子短语和/或私钥，也不要从您的迁移过程中指定的软件中下载任何其他客户端当前的Waves DEX客户端。迁移过程不需要您在任何地方输入种子短语和/或私钥。 Waves Platform或Waves.Exchange员工绝不会要求您提供任何类型的个人信息，包括私钥和/或种子短语。] \n\n {div.margin-top-1} [迁移过程是完全免费的，并且不会影响任何网关，因为网关将正常处理所有事务。您无需支付任何费用或将令牌发送给任何人即可完成迁移。]",
+            "text": "{div.margin-top-1} [仅可从网络域[https://dex.wavesplatform.com]（https://dex.wavesplatform.com/）和[https： //waves.exchange](https://waves.exchange/）。要完成桌面客户端的迁移，您必须使用已经安装的Waves DEX桌面应用程序。] \n\n {div.margin-top-1} [请勿使用任何其他域进行迁移，请勿在任何地方输入您的种子短语和/或私钥，也不要从您的迁移过程中指定的软件中下载任何其他客户端当前的Waves DEX客户端。迁移过程不需要您在任何地方输入种子短语和/或私钥。 Waves Platform或Waves.Exchange员工绝不会要求您提供任何类型的个人信息，包括私钥和/或种子短语。] \n\n {div.margin-top-1} [迁移过程是完全免费的，并且不会影响任何网关，因为网关将正常处理所有事务。您无需支付任何费用或将令牌发送给任何人即可完成迁移。]",
             "title": "注意！！！"
         },
         "goHome": "去首页",

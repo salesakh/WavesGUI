@@ -26,7 +26,7 @@
                 "restore": "Restaurer la phrase secrète"
             },
             "noUsers": {
-                "description": "{div}[Aucun compte enregistré n'a été trouvé. Retournez vers le]{div} [[client.wavesplatform.com](https://client.wavesplatform.com]",
+                "description": "{div}[Aucun compte enregistré n'a été trouvé. Retournez vers le]{div} [[waves.exchange](https://waves.exchange]",
                 "title": "Aucun compte enregistré"
             },
             "passwordTitle": "Mot de passe",

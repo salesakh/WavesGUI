@@ -26,7 +26,7 @@
                 "restore": "Pulihkan Seed"
             },
             "noUsers": {
-                "description": "{div}[Kami belum menemukan akun yang disimpan. Kembali ke]{div}[[client.wavesplatform.com](https://client.wavesplatform.com)]",
+                "description": "{div}[Kami belum menemukan akun yang disimpan. Kembali ke]{div}[[waves.exchange](https://waves.exchange)]",
                 "title": "Tidak ada akun yang disimpan"
             },
             "passwordTitle": "Kata sandi",

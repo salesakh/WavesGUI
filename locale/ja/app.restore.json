@@ -26,7 +26,7 @@
                 "restore": "シードを復元"
             },
             "noUsers": {
-                "description": "{div}[保存されたアカウントは見つかりませんでした。]{div}[[client.wavesplatform.com](https://client.wavesplatform.com)]へ戻る",
+                "description": "{div}[保存されたアカウントは見つかりませんでした。]{div}[[waves.exchange](https://waves.exchange)]へ戻る",
                 "title": "保存されたアカウントはありません"
             },
             "passwordTitle": "パスワード",
